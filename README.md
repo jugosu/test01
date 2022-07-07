@@ -1,5 +1,5 @@
 # 2022.07.01 밸런스 조정
-### ![Belveth](README.assets/Belveth.png)벨베스
+### ![Belveth](README.assets/벨베스.png)벨베스
 
 - #### 공격력 증가량 : ~~2~~ => 1.7
 
@@ -11,7 +11,7 @@
 
 
 
-### ![Caitlyn](README.assets/Caitlyn.png)케이틀린
+### ![Caitlyn](README.assets/케이틀린.png)케이틀린
 
 - #### 공격력 증가량 : ~~3.4~~ => 3.8
 
@@ -23,7 +23,7 @@
 
 
 
-### ![Katarina](README.assets/Katarina.png)카타리나
+### ![Katarina](README.assets/카타리나.png)카타리나
 
 - #### 기본 지속 효과 - 탐욕 주문력 계수: ~~55/66/77/88%~~ ⇒ 65/75/85/95% (1/6/11/16레벨에서)
 
@@ -35,13 +35,13 @@
 
 
 
-### ![Leona](README.assets/Leona.png)레오나
+### ![Leona](README.assets/레오나.png)레오나
 
 - #### 기본 지속 효과 - 햇빛 마법 피해량: ~~25~144~~⇒ 32~168 (레벨에 따라)
 
 
 
-### ![Senna](README.assets/Senna.png)세나
+### ![Senna](README.assets/세나.png)세나
 
 - #### 기본 체력 560 ⇒ 530
 
@@ -51,7 +51,7 @@
 
 
 
-### ![Seraphine](README.assets/Seraphine.png)세라핀
+### ![Seraphine](README.assets/세라핀.png)세라핀
 
 - #### 기본 지속 효과 - 무대 장악 음표 1개당 주문력 계수: ~~6/7/8/9% (1/6/11/16레벨에서)~~ ⇒ 7% (모든 레벨에서)
 
@@ -59,7 +59,7 @@
 
 
 
-### ![Shaco](README.assets/Shaco.png)샤코
+### ![Shaco](README.assets/샤코.png)샤코
 
 - #### 기본 지속 효과 - 암습 추가 공격력 계수: ~~15%~~ ⇒ 25%
 
@@ -71,7 +71,7 @@
 
 
 
-### ![TahmKench](README.assets/TahmKench.png)탐켄치
+### ![TahmKench](README.assets/탐켄치.png)탐켄치
 
 - #### 체력 증가량 ~~109~~ ⇒ 103
 
@@ -79,7 +79,7 @@
 
 
 
-### ![MonkeyKing](README.assets/MonkeyKing.png)오공
+### ![MonkeyKing](README.assets/오공.png)오공
 
 - #### E - 근두운 급습 몬스터 대상 피해량: ~~160%~~ ⇒ 120%
 
@@ -87,12 +87,12 @@
 
 
 
-### ![Yuumi](README.assets/Yuumi.png)유미 
+### ![Yuumi](README.assets/유미.png)유미 
 
 - #### 기본 지속 효과 - 퐁퐁방울 기본 공격 추가 사거리: ~~50~~ ⇒ 0
 
 
 
-### ![Zeri](README.assets/Zeri.png)제리
+### ![Zeri](README.assets/제리.png)제리
 
 - #### R - 번개 방출 중첩당 추가 이동 속도: ~~1%~~ ⇒ 0.5%
